@@ -17,4 +17,4 @@ RUN INSTRUCTIONS:
 
 5) Type 'python Base_62_Converter_Test.py' and press Enter
 
-The test program shall print encoded Base 62 numbers into your prompt, followed by those same numbers decoded into Base 10 integers.
+The test program encodes Base 62 numbers into your prompt, followed by those same numbers decoded into Base 10 integers.
